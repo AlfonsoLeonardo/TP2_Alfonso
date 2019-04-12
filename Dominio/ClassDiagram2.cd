@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dominio.Almacenar" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAgBAAACAAAAABAAAAAA=</HashCode>
+      <FileName>Almacenar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Cliente" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAEAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.ClienteDelCliente" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClienteDelCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Locacion" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Locacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Nivel" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nivel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Orden" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAABAAAAAAAAAAACAAAAAoAA=</HashCode>
+      <FileName>Orden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Pasillo" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pasillo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Recepcion" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAMAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAoAA=</HashCode>
+      <FileName>Recepcion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Sectores" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAACAAAAAAAEAAAAQAAACAAAAAAAAAAAQAAgAAA=</HashCode>
+      <FileName>Sectores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Sku" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sku.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.SkuMaster" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABAAAAAAAAAAAAAAgAGQAAAAEAgAAAABCAAAA=</HashCode>
+      <FileName>SkuMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.TipoProducto" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>TipoProducto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Ubicacion" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ubicacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dominio.Warehouse" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAA=</HashCode>
+      <FileName>Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
